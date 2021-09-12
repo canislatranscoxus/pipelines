@@ -1,0 +1,6 @@
+# mysql
+PyMySQL==1.0.2 
+
+# apache beam
+apache-beam==2.32.0
+beam-mysql-connector==1.8.5 
